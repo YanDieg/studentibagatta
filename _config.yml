@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Studenti Bagatta
-description: Portale informativo per gli studenti del Liceo Statale G.Bagatta
+description: Portale informativo per gli studenti del Bagatta
 baseurl: /studentibagatta # the subpath of your site, e.g. /support
 url: https://yandieg.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
