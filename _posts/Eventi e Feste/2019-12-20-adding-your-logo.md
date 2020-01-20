@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Adding Your Logo"
+title: "Festa Gennaio 2020"
 date: 2019-11-05 08:44:38 -0400
 category: event
 author: mac
-short-description: Replacing the Odin logo with your own
+short-description: Info
 ---
 
 -----
