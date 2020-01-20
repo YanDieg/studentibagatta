@@ -3,16 +3,16 @@
 
 auto-tutoring:
   name: Auto-Tutoring
-  description: Welcome to Odin, time to get started
+  description: Visualizzare disponibilità auto-tuoring
 event:
   name: Eventi e Feste
-  description: Welcome to Odin, time to get started
+  description: Tutti gli eventi e le feste del Bagatta!
 assembly:
   name: Assemblee d'istituto
-  description: Welcome to Odin, time to get started
+  description: Informazioni riguardo le nostre assemblee
 contact:
   name: Contatti Professori
-  description: Welcome to Odin, time to get started
+  description: Devi trovare il contatto di qualche professore?
 comunication:
   name: Comunicazioni
-  description: Welcome to Odin, time to get started
+  description: Comunicazioni ufficiali
