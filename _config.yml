@@ -57,15 +57,15 @@ nav_button: Home
 nav_button_link: https://www.yanezdiegoparolin.it/studentibagatta
 
 # More Help
-help_one_title: Odin Bugs
-help_one_content: If you find any bugs or problems with this theme, please open an issue over on Github.
-help_one_button: Github
-help_one_link: https://github.com/TeaGuns/odin/issues
+help_one_title: Instagram
+help_one_content: Se necessiti di più aiuto contattaci su instagram.
+help_one_button: Instagram
+help_one_link: https://instagram.com/studentibagatta
 
-help_two_title: Twitter
-help_two_content: Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.
-help_two_button: Twitter
-help_two_link: https://twitter.com/theteaguns
+help_two_title: Facebook
+help_two_content: Oppure su facebook.
+help_two_button: Facebook
+help_two_link: https://facebook.com/studentibagatta
 
 # Build settings
 theme: minima
