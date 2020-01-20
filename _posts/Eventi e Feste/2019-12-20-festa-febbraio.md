@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Festa Gennaio 2020"
+title: "Festa Febbraio 2020"
 date: 2019-11-05 08:44:38 -0400
 category: event
 author: mac
