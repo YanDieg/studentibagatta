@@ -12,7 +12,7 @@ assembly:
   description: Informazioni riguardo le nostre assemblee
 contact:
   name: Contatti Professori
-  description: Devi trovare il contatto di qualche professore?
+  description: Ricerca contatti professori
 comunication:
   name: Comunicazioni
   description: Comunicazioni ufficiali
