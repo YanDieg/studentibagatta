@@ -1,12 +1,18 @@
 #This file defines all the categories you 
 
 
-getting-started:
-  name: Getting Started
+auto-tutoring:
+  name: Auto-Toturing
   description: Welcome to Odin, time to get started
-using-odin:
-  name: Using Odin
+event:
+  name: Eventi e Feste
   description: Welcome to Odin, time to get started
-customizing-odin:
-  name: Customizing Odin
+assembly:
+  name: Assemblee d'istituto
+  description: Welcome to Odin, time to get started
+contact:
+  name: Contatti Professori
+  description: Welcome to Odin, time to get started
+comunication:
+  name: Comunicazioni
   description: Welcome to Odin, time to get started
