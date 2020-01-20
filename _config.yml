@@ -19,42 +19,42 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Studenti Bagatta
-description: Odin is a simple to setup and use Jekyll theme for help desks and knowledge bases. Hosts for free on Github Pages!
+description: Portale informativo per gli studenti del Liceo Statale G.Bagatta
 baseurl: /studentibagatta # the subpath of your site, e.g. /support
-url: https://teaguns.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+url: https://yandieg.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
-content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
-use_authors: true #Set this to false to disable showing post authors
+content_type: How can we help you #Define whether this is a knowledge base, help center, or something else
+use_authors: false #Set this to false to disable showing post authors
 
 brand_logo: logo.png
-brand_name: Odin
+brand_name: Liceo Bagatta
 header: How can we help you?
-subheader: Support and documentation for Odin
+subheader: Informazioni su eventi, tutoring, assemblee e contatti dei professori
 
 meta_image: odin-meta.png
 
 # Social Links
-twitter_username: TheTeaGuns
-facebook_page:
-github_username: TeaGuns
-email: m@credd.in
+twitter_username: StudentiBagatta
+facebook_page: studentibagatta
+github_username:
+email: bspc020001@istruzione.it
 linkedin_page:
-instagram_username: 
+instagram_username: studentibagatta
 
 
 # Navivation
-nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
+nav_item_one: Facebook
+nav_item_one_link: https://facebook.com/studentibagatta
 
-nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/TheTeaGuns
+nav_item_two: Instagram
+nav_item_two_link: https://instagram.com/studentibagatta
 
 nav_item_three: #
 nav_item_three_link: #
 
-nav_button: Return to Odin Home
-nav_button_link: https://teaguns.github.io/odin/
+nav_button: Home
+nav_button_link: https://www.yanezdiegoparolin.it/studentibagatta
 
 # More Help
 help_one_title: Odin Bugs
