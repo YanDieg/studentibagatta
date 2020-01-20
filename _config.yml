@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Studenti Bagatta
+title: Studenti Bagatta - Portale Studenti
 description: Portale informativo per gli studenti del Bagatta
 baseurl: /studentibagatta # the subpath of your site, e.g. /support
 url: https://yandieg.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
